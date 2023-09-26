@@ -7,7 +7,7 @@ This Python program checks if a given linked list is a palindrome. A palindrome 
 ## Usage
 
 1. Ensure you have Python installed on your system.
-2. Copy and paste the provided Python program (`palindrome_linked_list.py`) into your project.
+2. Copy and paste the provided Python program maian.py into your project.
 3. Create a linked list and call the `is_palindrome` function with the head of the linked list.
 
 ```python
